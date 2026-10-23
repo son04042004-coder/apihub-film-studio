@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "runtime": "3c57606b",
-  "app_url": "https://github.com/son04042004-coder/apihub247-film-studio/releases/download/v1.0.1/app-1.0.1.zip",
-  "app_sha256": "cb21709aa59433a6523d7590d3beddd7fdfa7bfcecaddfc646898929777c9088",
-  "runtime_url": "https://github.com/son04042004-coder/apihub247-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
+  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.1.0/app-1.1.0.zip",
+  "app_sha256": "8be29abf554638fcdd0902bb709c05e7fc8172cb701a8d5cf76786b3ba6f8244",
+  "runtime_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
   "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
-  "notes": "Bản 1.0.1: kiểm tra tính năng tự cập nhật.",
+  "notes": "APIHUB Film Studio: tên mới, logo và bộ cài mới có giao diện.",
   "plans": [
     {
       "id": "month",
@@ -22,5 +22,5 @@
       "code": "Y"
     }
   ],
-  "sig": "asV5yTSHvytCIXeFG5Evl+6xMNVPzR0ZENNVD2ND4YeowmxvSSaOiuCsyu2bRe8HUw99u4uH1r/K+B+gEYucCA=="
+  "sig": "rTqkzuhTjNNlINR1sGw8H6o0gVeXwyQk4Fc6eGpSUksbemvCEaEKoIHkW15CNba4qogSZp6T5Gvmbc1UM+/GBw=="
 }
