@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "runtime": "3c57606b",
+  "app_url": "https://github.com/son04042004-coder/apihub247-film-studio/releases/download/v1.0.0/app-1.0.0.zip",
+  "app_sha256": "dc4ac6f4d2027a50b94e08ae7141c479aa7d956b983db164d6c6edd12d7d11a0",
+  "runtime_url": "https://github.com/son04042004-coder/apihub247-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
+  "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
+  "notes": "Bản phát hành đầu tiên của ApiHub247 Film Studio.",
+  "plans": [
+    {
+      "id": "month",
+      "label": "Gói Tháng",
+      "days": 30,
+      "price": 199000,
+      "code": "M"
+    },
+    {
+      "id": "year",
+      "label": "Gói Năm",
+      "days": 365,
+      "price": 1990000,
+      "code": "Y"
+    }
+  ],
+  "sig": "D7hLtAijeN3rU2e150LOuY1pc9WlBBXJvAlADnC89ElCbU3weSHhWeyzblbgb4kOkADgzk0rsBJi34bb9UDnBw=="
+}
