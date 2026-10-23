@@ -1,8 +1,8 @@
-# ApiHub247 Film Studio
+# APIHUB Film Studio
 
-Nơi phát hành bộ cài và bản cập nhật của **ApiHub247 Film Studio**.
+Nơi phát hành bộ cài và bản cập nhật của **APIHUB Film Studio**.
 
-- Tải bộ cài mới nhất ở mục **Releases**: tệp `Setup-<phiên bản>.exe`.
+- Tải bộ cài mới nhất ở mục **Releases**: tệp `APIHUB-Film-Studio-Setup-<phiên bản>.exe`.
 - `latest.json`: thông tin bản mới nhất, có chữ ký số; app tự kiểm tra và tải bản cập nhật.
 - `licenses/`: key bản quyền đã cấp, mỗi tệp ứng với mã băm của một máy (không có thông tin cá nhân).
 
@@ -10,12 +10,12 @@ Repo này không chứa mã nguồn.
 
 ## Hướng dẫn cài đặt cho người mua
 
-1. Tải tệp `Setup-<phiên bản>.exe` ở mục **Releases** (bản mới nhất), rồi bấm đúp để chạy.
+1. Tải tệp `APIHUB-Film-Studio-Setup-<phiên bản>.exe` ở mục **Releases** (bản mới nhất), rồi bấm đúp để chạy.
 2. Nếu Windows SmartScreen báo "Windows đã bảo vệ máy tính của bạn": bấm **More info / Thông tin thêm**, rồi
    **Run anyway / Vẫn chạy**.
 3. Lần đầu cài và mở app, Windows Defender có thể quét khoảng một phút: cứ chờ, đừng tắt.
 4. Máy cần có **Google Chrome** (dùng để đăng nhập tài khoản Google Flow).
-5. Mở ApiHub247 Film Studio, vào mục **Bản quyền**: **Mã máy** của bạn hiện ở đó (gửi mã này khi cần hỗ trợ).
+5. Mở APIHUB Film Studio, vào mục **Bản quyền**: **Mã máy** của bạn hiện ở đó (gửi mã này khi cần hỗ trợ).
 6. Chọn gói, rồi mở app ngân hàng quét **mã QR** để chuyển khoản; giữ nguyên số tiền và nội dung chuyển khoản.
 7. Cứ để app mở: bản quyền thường tự kích hoạt sau **1–2 phút** kể từ khi chuyển khoản.
 8. Cần hỗ trợ: **Zalo 0914998354**.
