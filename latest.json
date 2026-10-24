@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "runtime": "3c57606b",
-  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.3.2/app-1.3.2.zip",
-  "app_sha256": "a741336b07dc44548328db7afbe318b48694fbdc940b98c3f4a6e228379df4fb",
+  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.3.3/app-1.3.3.zip",
+  "app_sha256": "26fe17ca97c2ef2fc2e35f233ac6403dc67e0b54248517301933623be1c752ad",
   "runtime_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
   "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
-  "notes": "Thêm nút Tải file kịch bản (.txt, .docx): chọn file là tự tách cảnh. Lỗi tải ảnh lên Flow (không tốn credit) giờ tự thử lại tối đa 2 lần.",
+  "notes": "Chạy tự động bền hơn: tự thử lại khi trang Flow không mở được, nâng cấp 1080p tự thử lại khi lỗi, tự dùng thời lượng mặc định của Flow khi tài khoản không có thời lượng đã chọn.",
   "plans": [
     {
       "id": "month",
@@ -36,5 +36,5 @@
       "code": "Y"
     }
   ],
-  "sig": "64S2DtEhGDmfHsT8zoE5M4LRwET541nbf+mkgY33VVmXrb94mTWbDEZv1x7M5swkxs0O1gqlH27rJVoYKI6ZBQ=="
+  "sig": "9/MtVKvtNlmnfdT7fqHlOGp0wlo8xrf2riprRXr7LPDuSmkIx/ZMBhMFdLYTx6rUvVcqiSZX93cW1UoWPg9nBA=="
 }
