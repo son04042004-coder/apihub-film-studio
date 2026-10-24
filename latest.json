@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "runtime": "3c57606b",
-  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.2.0/app-1.2.0.zip",
-  "app_sha256": "0082ccce47e84cca282d06a6f53e15c441e2e10b09b51f626690b2cee2317af0",
+  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.2.1/app-1.2.1.zip",
+  "app_sha256": "30dcd473b0c33479fb67670e60776e93d90c68bf8570e6487731c47005a5c343",
   "runtime_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
   "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
-  "notes": "Bản 1.2.0: thu hồi key, cấp key theo số ngày, kiểm tra bản quyền định kỳ.",
+  "notes": "Thêm mã dùng thử cho máy mới (dán mã FST1- vào ô bản quyền). Bảng giá mới: Tháng 199k, 3 tháng 599k, 6 tháng 999k, Năm 1.999k.",
   "plans": [
     {
       "id": "month",
@@ -15,12 +15,26 @@
       "code": "M"
     },
     {
+      "id": "quarter",
+      "label": "Gói 3 tháng",
+      "days": 90,
+      "price": 599000,
+      "code": "Q"
+    },
+    {
+      "id": "halfyear",
+      "label": "Gói 6 tháng",
+      "days": 180,
+      "price": 999000,
+      "code": "H"
+    },
+    {
       "id": "year",
       "label": "Gói Năm",
       "days": 365,
-      "price": 1990000,
+      "price": 1999000,
       "code": "Y"
     }
   ],
-  "sig": "Hqw+4feMCAmH32aPz+/JfNVxtpg9iLwDRq6SqVMhUlpxsgOW5Q7z9I8DGI24BPvZ4qscQQiXbqR1IXV4igj7Ag=="
+  "sig": "VvgExCOrf+YAJ0xw0y6m0uAKNXBWvnWMMXBFDROOxzOz9uWQMGPPXY7nVtT7f+D2wBAlwFuSNkAN9Hm9vb23Bg=="
 }
