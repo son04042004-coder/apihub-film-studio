@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "runtime": "3c57606b",
-  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.2.1/app-1.2.1.zip",
-  "app_sha256": "30dcd473b0c33479fb67670e60776e93d90c68bf8570e6487731c47005a5c343",
+  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.3.0/app-1.3.0.zip",
+  "app_sha256": "7013e9e754ec825fb5a0d248e8710e972398d862be25278551476a631e053ff6",
   "runtime_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
   "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
-  "notes": "Thêm mã dùng thử cho máy mới (dán mã FST1- vào ô bản quyền). Bảng giá mới: Tháng 199k, 3 tháng 599k, 6 tháng 999k, Năm 1.999k.",
+  "notes": "Khu Duyệt cảnh: xem mọi cảnh dạng thẻ, kéo đổi thứ tự, làm lại cảnh ngay trên thẻ (lỗi thì tự giữ bản cũ).",
   "plans": [
     {
       "id": "month",
@@ -36,5 +36,5 @@
       "code": "Y"
     }
   ],
-  "sig": "VvgExCOrf+YAJ0xw0y6m0uAKNXBWvnWMMXBFDROOxzOz9uWQMGPPXY7nVtT7f+D2wBAlwFuSNkAN9Hm9vb23Bg=="
+  "sig": "16MiiVC7u7DQyi8icNVseIBG0Y4jOV0hAE1F4gBtabOyClRuJW6Vcm8tKT7VhpVhyv8Jo6lxXjL1kbqMgZYqCQ=="
 }
