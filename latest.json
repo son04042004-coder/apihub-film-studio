@@ -1,11 +1,11 @@
 {
-  "version": "1.3.3",
+  "version": "1.4.0",
   "runtime": "3c57606b",
-  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.3.3/app-1.3.3.zip",
-  "app_sha256": "26fe17ca97c2ef2fc2e35f233ac6403dc67e0b54248517301933623be1c752ad",
+  "app_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.4.0/app-1.4.0.zip",
+  "app_sha256": "fadf55bf1d99865b977c8c5599443766f4821cedbbb605001627c82f3a61cf42",
   "runtime_url": "https://github.com/son04042004-coder/apihub-film-studio/releases/download/v1.0.0/runtime-3c57606b.zip",
   "runtime_sha256": "2f8cb233a164a6e296b3ac44103eb0ffb9020822830c4dd0cbc7be3ba1ca5b9a",
-  "notes": "Chạy tự động bền hơn: tự thử lại khi trang Flow không mở được, nâng cấp 1080p tự thử lại khi lỗi, tự dùng thời lượng mặc định của Flow khi tài khoản không có thời lượng đã chọn.",
+  "notes": "Kênh YouTube mẫu: 5 chủ đề, tạo kịch bản nhiều cảnh với lời dẫn và gói xuất bản. Cải thiện viết tiếp, quản lý lượt dùng thử và khôi phục tài khoản AI.",
   "plans": [
     {
       "id": "month",
@@ -36,5 +36,5 @@
       "code": "Y"
     }
   ],
-  "sig": "9/MtVKvtNlmnfdT7fqHlOGp0wlo8xrf2riprRXr7LPDuSmkIx/ZMBhMFdLYTx6rUvVcqiSZX93cW1UoWPg9nBA=="
+  "sig": "g/e/t/xaiwqIdwGPjCLf5MfvOpS068/9vAsXfNu4VKcrFJXNnmYQqNIIOZ4bGSMPYLZvAsAY9spgykHoCJ59DA=="
 }
